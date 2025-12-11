@@ -10,7 +10,9 @@ gringo vibe coder from brașov, romania.
 
 no dev degree. just me, cursor, and claude figuring things out together.
 
-22 years building online systems. now building tools that protect attention instead of demanding it.
+1981 kid. father of two (16 & 11). 22 years building online systems.
+
+now building tools that protect attention instead of demanding it.
 
 <br>
 
@@ -45,6 +47,10 @@ i think in systems. ai handles the syntax. we meet somewhere in the middle.
 #### elsewhere
 
 [substack](https://respira.love) · [linkedin](https://linkedin.com/in/mihailove) · [respira ecosystem](https://respira.cafe/ecosystem)
+
+<br>
+
+[![Buy Respira a Tea](https://img.shields.io/badge/buy%20respira%20a%20tea-☕-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/respira.buzz)
 
 <br>
 
