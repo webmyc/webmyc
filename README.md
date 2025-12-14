@@ -53,7 +53,8 @@ i think in systems. ai handles the syntax. we meet somewhere in the middle.
 [![Buy Respira a Tea](https://img.shields.io/badge/buy%20respira%20a%20tea-☕-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/respira.buzz)
 
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=webmyc&theme=github-dark-blue" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=webmyc&theme=github-dark-blue)](https://git.io/streak-stats)
+
 <br>
 
 *quiet tools for the easily distracted.*
