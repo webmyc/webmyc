@@ -18,6 +18,8 @@ now building tools that protect attention instead of demanding it.
 
 #### current projects
 
+🫀 **[it works now](https://itworks.now)** — if you know what you want, you can have it - companion app for a 100 years old method. and personal finance diary to track active revenue streams. what you measure, you can grow
+
 🫀 **[respira pulse](https://respirapulse.dev)** — macos menu bar app for vercel deployments
 
 🔌 **[respira press](https://respira.press)** — wordpress plugin for ai-assisted editing
