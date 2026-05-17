@@ -6,7 +6,7 @@
 
 solo founder of respira, based in brașov, romania.
 
-24 years building online systems. no dev degree. just me, claude, cursor, and a long backlog of wordpress sites to keep safe.
+24 years building online systems, no dev degree. forever learner, fascinated by what new tools allow me to do.
 
 1981 kid. father of two (16 & 11). i write small, opinionated tools.
 
