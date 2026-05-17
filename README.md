@@ -8,15 +8,13 @@ solo founder of respira, based in brașov, romania.
 
 24 years building online systems, no dev degree. forever learner, fascinated by what new tools allow me to do.
 
-1981 kid. father of two (16 & 11). i write small, opinionated tools.
+1981 kid. father of two (16 & 11).
 
 #### Current focus
 
 🔌 **[respira for wordpress](https://respira.press)** — the ai infrastructure layer for wordpress. 823 connected sites, 3.84M lines of ai-generated code shipped, 12 page builders covered. snapshot before every write. render validation after. one-click rollback when something looks off.
 
 🫁 **[inhale: mcp abilities](https://respira.press/inhale-mcp-abilities)** — free wordpress plugin, shipped may 16, 2026. settings page for the wordpress mcp server. replaces the `wp_register_ability_args` filter workaround with a ui.
-
-⬆ **[PR #184](https://github.com/WordPress/mcp-adapter/pull/184)** — open against WordPress/mcp-adapter, addressing issue #183 with a first-party settings page for the canonical adapter. first contribution to a WordPress core-adjacent repo.
 
 #### Side projects
 
@@ -28,7 +26,7 @@ solo founder of respira, based in brașov, romania.
 
 #### How i build
 
-think in systems. ai handles the syntax. i hold the constraints, the invariants, the safety model. we meet in the middle and ship something a human can audit.
+i'm focused on how users interact with my products and how i can keep improving their experience. i love building systems that work and actually help people be more productive. AI should not be used to create slop; it should be used to improve and refurbish the dusty websites already out there.
 
 #### Built with
 
