@@ -12,7 +12,7 @@ solo founder of respira, based in brașov, romania.
 
 #### Current focus
 
-🔌 **[respira for wordpress](https://respira.press)** — the ai infrastructure layer for wordpress. 823 connected sites, 3.84M lines of ai-generated code shipped, 12 page builders covered. snapshot before every write. render validation after. one-click rollback when something looks off.
+🔌 **[respira for wordpress](https://respira.press)** — the ai infrastructure layer for wordpress. 3,200+ connected sites, 20.8M lines of ai-generated code shipped, 17 page builders covered. snapshot before every write. render validation after. one-click rollback when something looks off.
 
 🫁 **[inhale: mcp abilities](https://respira.press/inhale-mcp-abilities)** — free wordpress plugin, shipped may 16, 2026. settings page for the wordpress mcp server. replaces the `wp_register_ability_args` filter workaround with a ui.
 
@@ -38,7 +38,7 @@ i'm focused on how users interact with my products and how i can keep improving 
 
 <a href="https://buymeacoffee.com/respira"><img src="https://img.shields.io/badge/Buy_Respira_a_Tea-yellow?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy Respira a Tea"></a>
 
-*currently: 823 wordpress sites · 3.84M lines shipped · 172 MCP tools · live at [respira.press/live](https://respira.press/live)*
+*currently: 3,200+ wordpress sites · 20.8M lines shipped · 360+ tools · live at [respira.press/live](https://respira.press/live)*
 
 <!--
 Alternate stats footers — swap by uncommenting:
